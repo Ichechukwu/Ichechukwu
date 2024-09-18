@@ -12,7 +12,7 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 - <b>Linux</b>
-  - [File permissions in Linux)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [File permissions in Linux)](https://docs.google.com/document/d/1A-ulVX7T-2lm7Qx0kcCNeBzy6o3H4lsr3auEHiYyyNw/edit?usp=drivesdk)
 
 
 <h2>Certifications</h2>
